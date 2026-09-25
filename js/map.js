@@ -106,7 +106,7 @@ map.on("load", async () => {
   // ============================================================
 
   const response =
-    await fetch("./data/waste_sites.geojson");
+    await fetch("./data/combined_sites.geojson");
 
 
   allSiteData =
@@ -121,7 +121,7 @@ map.on("load", async () => {
   // SITE SOURCE
   // ============================================================
 
-  map.addSource("waste-sites", {
+  map.addSource("combined_sites", {
     type: "geojson",
     data: allSiteData
   });
@@ -132,9 +132,9 @@ map.on("load", async () => {
   // ============================================================
 
   map.addLayer({
-    id: "waste-sites",
+    id: "combined_sites",
     type: "circle",
-    source: "waste-sites",
+    source: "combined_sites",
 
     paint: {
       "circle-radius": 6,
@@ -227,7 +227,7 @@ map.on("load", async () => {
 
   map.on(
     "mouseenter",
-    "waste-sites",
+    "combined_sites",
     event => {
 
       map.getCanvas().style.cursor =
@@ -298,7 +298,7 @@ map.on("load", async () => {
 
   map.on(
     "mouseleave",
-    "waste-sites",
+    "combined_sites",
     () => {
 
       map.getCanvas().style.cursor =
@@ -317,7 +317,7 @@ map.on("load", async () => {
 
   map.on(
     "click",
-    "waste-sites",
+    "combined_sites",
     event => {
 
       if (!event.features.length) {
@@ -364,7 +364,7 @@ map.on("load", async () => {
       // ========================================================
 
       map
-        .getSource("waste-sites")
+        .getSource("combined_sites")
         .setData(
           currentFilteredData
         );
@@ -421,7 +421,7 @@ map.on("load", async () => {
           event.point,
           {
             layers: [
-              "waste-sites"
+              "combined_sites"
             ]
           }
         );
@@ -705,7 +705,7 @@ function applyFilters() {
   // ============================================================
 
   map
-    .getSource("waste-sites")
+    .getSource("combined_sites")
     .setData(
       currentFilteredData
     );
@@ -872,7 +872,7 @@ function resetMap() {
   // ============================================================
 
   map
-    .getSource("waste-sites")
+    .getSource("combined_sites")
     .setData(
       allSiteData
     );
@@ -1055,7 +1055,7 @@ function exportCurrentSites() {
 
 
   link.download =
-    "waste_sites_export.csv";
+    "combined_sites_export.csv";
 
 
   document.body.appendChild(
