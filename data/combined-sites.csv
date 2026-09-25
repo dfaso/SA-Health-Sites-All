@@ -1,0 +1,285 @@
+Name,Type,Address,Suburb,Postcode,State,LHN,Geographical LHN,Governing Body,latitude,longitude
+SA PATH - Adelaide (Royal Adelaide Hospital),SA Pathology,"Level 3H, Port Road",Adelaide,5000,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.92041919,138.5866223
+SA PATH - Adelaide (SA Pathology Laboratory),SA Pathology,Frome Road,Adelaide,5000,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.91974018,138.6081123
+SA PATH - Bedford Park (Flinders Medical Centre),SA Pathology,"Level 6, Room 6D101, Flinders Drive",Bedford Park,5042,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-35.02139743,138.5687788
+SA PATH - Elizabeth Vale (Lyell McEwin Health Service),SA Pathology,Haydown Road,Elizabeth Vale,5112,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.74800019,138.6660231
+SA PATH - Gawler Health Service,SA Pathology,21 Hutchinson Road,Gawler,5118,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-34.59396979,138.7548077
+SA PATH - Modbury Hospital,SA Pathology,Smart Road,Modbury,5092,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.83391475,138.6907527
+SA PATH - Noarlunga Health Service,SA Pathology,Alexander Kelly Drive,Noarlunga Centre,5168,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-35.13948442,138.4987324
+SA PATH - North Adelaide (Women's and Children's Hospital),SA Pathology,"4th floor Rieger Building, King William Road (via Kermode Street Main Entrance)",North Adelaide,5006,SA,Women's and Children's Health Network,WCHN,SCSS,-34.91189469,138.5998879
+SA PATH - Woodville (The Queen Elizabeth Hospital),SA Pathology,28 Woodville Road,Woodville,5011,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.88395273,138.5334658
+SA PATH - Berri Hospital,SA Pathology,Maddern Avenue,Berri,5343,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-34.27544414,140.6008092
+SA PATH - Mount Gambier Hospital,SA Pathology,Wehl Street North,Mount Gambier,5290,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-37.80538705,140.7862602
+SA PATH - Murray Bridge Hospital,SA Pathology,Swanport Road,Murray Bridge,5253,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-35.12865375,139.2807644
+SA PATH - Port Augusta Hospital,SA Pathology,Hospital Road,",Port Augusta",5700,SA,Flinders and Upper North Local Health Network,FUNLHN,SCSS,-32.50968465,137.7752603
+SA PATH - Port Lincoln Hospital,SA Pathology,Oxford Terrace,Port Lincoln,5606,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-34.72429076,135.8498349
+SA PATH - Port Pirie Hospital,SA Pathology,Alexander Street,Port Pirie,5540,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.17782006,138.0044256
+SA PATH - Victor Harbor (South Coast District Hospital),SA Pathology,Harbour View Terrace,Victor Harbor,5211,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.56105153,138.6077734
+SA PATH - Wallaroo Hospital,SA Pathology,Ernest Terrace,Wallaroo,5556,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.92799792,137.6368333
+SA PATH - Whyalla Hospital,SA Pathology,Wood Terrace,Whyalla,5600,SA,Flinders and Upper North Local Health Network,FUNLHN,SCSS,-33.03396555,137.5768292
+SAMI - Clare Hospital,SA Medical Imaging,47 Farrel Flat Road,Clare,5453,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.82945949,138.6142729
+SAMI - Flinders Medical Centre,SA Medical Imaging,Flinders Drive,Bedford Park,5042,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-35.02044602,138.5690117
+"SAMI - Lyell McEwin Hospital, Nuclear Medicine",SA Medical Imaging,120-130 Haydown Road,Elizabeth Vale,5112,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.74777585,138.6644872
+"SAMI - Lyell McEwin Hospital, Medical Imaging",SA Medical Imaging,120-130 Haydown Road,Elizabeth Vale,5112,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.7472805,138.6638429
+SAMI - Murray Bridge Soldiers’ Memorial Hospital,SA Medical Imaging,96 Swanport Road,Murray Bridge,5253,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-35.12886921,139.2802788
+SAMI - Port Pirie Regional Health Service,SA Medical Imaging,Alexander Street,Port Pirie,5540,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.17709701,138.0043685
+SAMI - QE Specialist Centre,SA Medical Imaging,35 Woodville Road,Woodville South,5011,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.88276364,138.5332574
+SAMI - Repat Health Precinct,SA Medical Imaging,216 Daws Road,Daw Park,5041,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-34.9906983,138.5887889
+SAMI - Riverland General Hospital,SA Medical Imaging,10 Maddern Street,Berri,5343,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-34.27610083,140.6016612
+"SAMI - Royal Adelaide Hospital, Medical Imaging",SA Medical Imaging,Port Road,Adelaide,5000,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.92094784,138.5864622
+"SAMI - Royal Adelaide Hospital, Nuclear Medicine",SA Medical Imaging,Port Road,Adelaide,5000,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.92109714,138.5877215
+"SAMI - The Queen Elizabeth Hospital, Medical Imaging ",SA Medical Imaging,28 Woodville Road,Woodville South,5011,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.88349995,138.5337087
+"SAMI - The Queen Elizabeth Hospital, Nuclear Medicine",SA Medical Imaging,28 Woodville Road,Woodville South,5011,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.88357683,138.5331827
+SAMI - Women’s and Children’s Hospital,SA Medical Imaging,72 King William Road,North Adelaide,5006,SA,Women's and Children's Health Network,WCHN,SCSS,-34.91165816,138.5998633
+SADS - Adelaide Dental Hospital,SA Dental,Corner of North Terrace and George Street,Adelaide,5000,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.921506,138.591268
+SADS - Angle Park (Parks),SA Dental,"Parks Community Dental Clinic, 2/40-44 Trafford Street",Angle Park,5010,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.858918,138.55706
+SADS - Elizabeth GP Plus,SA Dental,16 Playford Boulevard,Elizabeth,5112,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.716801,138.6710785
+SADS - Evanston,SA Dental,20 Para Road,Evanston,5116,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-34.616081,138.734003
+SADS - Fulham Gardens,SA Dental,Mitton Avenue,Henley Beach,5022,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.91261,138.504169
+SADS - Gawler,SA Dental,"Gawler Health Service, 21 Hutchinson Road",Gawler East,5118,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-34.593246,138.755161
+SADS - Gilles Plains,SA Dental,"TAFE SA, 33 Blacks Road",Gilles Plains,5086,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.851852,138.653039
+SADS - Hendon,SA Dental,162 Cedar Avenue,Royal Park,5014,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.878818,138.510869
+SADS - Linden Park,SA Dental,5 Highfield Avenue,St Georges,5064,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.948206,138.644555
+SADS - Magill,SA Dental,Magill Primary School,Magill,5072,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.913917,138.679206
+SADS - Marion GP Plus,SA Dental,"Level 1, 10 Milham Street",Oaklands Park,5046,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-35.01327,138.542127
+SADS - Marleston,SA Dental,229B Marion Road,Marleston,5033,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.945034,138.554218
+SADS - Millicent,SA Dental,17 Ninth Street,Millicent,5280,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-37.593187,140.342106
+SADS - Mitcham,SA Dental,"Mitcham Primary School, Elphyn Road",Kingswood,5062,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-34.972971,138.616272
+SADS - Modbury GP Plus,SA Dental,77 Smart Road,Modbury,5092,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.833645,138.692326
+SADS - Mount Barker - Kids,SA Dental,"Mount Barker Primary School, 2A Dumas Street",Mount Barker,5251,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.067006,138.85346
+SADS - Mount Barker - Adults,SA Dental,"Mount Barker District Soldiers' Memorial Hospital, 87 Wellington Road",Mount Barker,5251,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.080352,138.86994
+SADS - Mount Gambier,SA Dental,"Mount Gambier and Districts Health Service, 276-300 Wehl Street North",Mount Gambier,5290,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-37.805057,140.785977
+SADS - Murray Bridge,SA Dental,45 Beatty Terrace,Murray Bridge,5253,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-35.127825,139.279894
+SADS - Naracoorte,SA Dental,"Naracoorte Primary School, 41 Park Terrace",Naracoorte,5271,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-36.951334,140.737856
+SADS - Noarlunga GP Plus,SA Dental,2 Alexander Kelly Drive,Noarlunga Centre,5168,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-35.139045,138.497397
+SADS - Pennington,SA Dental,"Pennington Primary School, Butler Avenue",Pennington,5013,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.857075,138.532721
+SADS - Port Adelaide,SA Dental,"Wonggangga Turtpandi Aboriginal Primary Health Care Services, 11 Church Street",Port Adelaide,5015,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.846841,138.50276
+SADS - Port Augusta,SA Dental,"Flinders and Far North Community Health Service, 36 Flinders Terrace",Port Augusta,5700,SA,Flinders and Upper North Local Health Network,FUNLHN,SCSS,-32.493171,137.765412
+SADS - Port Lincoln,SA Dental,39 Oxford Terrace,Port Lincoln,5606,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-34.724224,135.850294
+SADS - Port Pirie,SA Dental,"Port Pirie Regional Health Service, The Terrace",Port Pirie,5540,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.177029,138.004454
+SADS - Port Pirie West,SA Dental,"Port Pirie West Primary School, 214 The Terrace",Port Pirie West,5540,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.181384,138.002973
+SADS - Prospect,SA Dental,"Prospect Primary School, Burrage Place",Prospect,5082,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.884427,138.590791
+SADS - Riverland (Berri),SA Dental,10 Maddern Avenue,Berri,5343,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-34.275874,140.601086
+SADS - Salisbury,SA Dental,21 Hollywood Boulevard,Salisbury Downs,5108,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.768976,138.623651
+SADS - Victor Harbor Hospital (Southern Fleurieu Health Service),SA Dental,Harbour View Terrace,Victor Harbor,5211,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.560858,138.607391
+SADS - Wallaroo,SA Dental,"Wallaroo Hospital and Health Services, 1 Ernest Terrace",Wallaroo,5556,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.928552,137.636632
+SADS - Whyalla,SA Dental,"Whyalla Oral Health Centre, 111 Nicolson Avenue",Whyalla Norrie,5608,SA,Flinders and Upper North Local Health Network,FUNLHN,SCSS,-33.029228,137.546723
+SAAS - COOBER PEDY STATION,AMBULANCE STATION,LOT 100 MCKENZIE ROAD,COOBER PEDY,5723,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-29.006551,134.759837
+SAAS - COOMANDOOK STATION,AMBULANCE STATION,2151 OLD DUKES HIGHWAY,COOMANDOOK,5261,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-35.47246,139.701528
+SAAS - COONALPYN STATION,AMBULANCE STATION,9-11 POYNTZ TERRACE,COONALPYN,5265,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-35.694112,139.855845
+SAAS - COWELL STATION,AMBULANCE STATION,1 LINCOLN HIGHWAY,COWELL,5602,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-33.680697,136.922319
+SAAS - CRYSTAL BROOK STATION,AMBULANCE STATION,35 BRANDIS STREET,CRYSTAL BROOK,5523,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.352931,138.208355
+SAAS - CUMMINS STATION,AMBULANCE STATION,19 TUMBY BAY ROAD,CUMMINS,5631,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-34.263639,135.732492
+SAAS - STATE HEADQUARTERS,AMBULANCE STATION,205 GREENHILL ROAD,EASTWOOD,5063,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.9406913,138.6191358
+SAAS - SPECIAL OPERATIONS STATION,AMBULANCE STATION,LOT 42 SIR DONALD BRADMAN DRIVE,ADELAIDE AIRPORT,5950,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.936322,138.532372
+SAAS - STIRLING STATION,AMBULANCE STATION,298 MOUNT BARKER ROAD,ALDGATE,5154,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.012422,138.743784
+SAAS - ALDINGA STATION,AMBULANCE STATION,186-196 PORT ROAD,ALDINGA,5173,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-35.267682,138.482234
+SAAS - AMERICAN RIVER STATION,AMBULANCE STATION,LOT 13 BUICK DRIVE,AMERICAN RIVER,5221,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.782721,137.769309
+SAAS - BAROSSA VALLEY STATION,AMBULANCE STATION,27 SCHILLING STREET,ANGASTON,5353,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-34.503315,139.052275
+SAAS - ARDROSSAN STATION,AMBULANCE STATION,NORTH TERRACE,ARDROSSAN,5571,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-34.420829,137.91613
+SAAS - ASHFORD STATION,AMBULANCE STATION,24-28 ALEXANDER AVENUE,ASHFORD,5035,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.946211,138.577198
+SAAS - BALAKLAVA STATION,AMBULANCE STATION,WAR MEMORIAL DRIVE,BALAKLAVA,5461,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-34.140062,138.418887
+SAAS - BARMERA STATION,AMBULANCE STATION,LOT 674 LANGDON TERRACE,BARMERA,5345,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-34.252985,140.466482
+SAAS - BERRI STATION,AMBULANCE STATION,LOT 801 CORNWALL STREET,BERRI,5343,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-34.27737,140.601809
+SAAS - BOOLEROO CENTRE STATION,AMBULANCE STATION,3-13 STEPHENS STREET,BOOLEROO CENTRE,5482,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-32.877024,138.350836
+SAAS - BORDERTOWN STATION,AMBULANCE STATION,SEC 980 TATIARA TERRACE,BORDERTOWN,5268,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-36.308202,140.769809
+SAAS - CAMDEN PARK STATION,AMBULANCE STATION,65-69 MORPHETT ROAD,CAMDEN PARK,5038,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.966328,138.537379
+SAAS - CEDUNA STATION,AMBULANCE STATION,32 POYNTON STREET,CEDUNA,5690,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-32.127683,133.67403
+SAAS - CLARE STATION,AMBULANCE STATION,WEBB STREET,CLARE,5453,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.830054,138.61365
+SAAS - CLEVE STATION,AMBULANCE STATION,20 FOURTH STREET,CLEVE,5640,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-33.700854,136.493866
+SAAS - COFFIN BAY STATION,AMBULANCE STATION,165-181 ESPLANADE,COFFIN BAY,5607,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-34.622607,135.463466
+SAAS - KAROONDA STATION,AMBULANCE STATION,LOT 55 STOKES ROAD,KAROONDA,5307,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-35.094937,139.889817
+SAAS - KEITH STATION,AMBULANCE STATION,LOT 24 HILL AVENUE,KEITH,5267,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-36.097502,140.346076
+SAAS - KIMBA STATION,AMBULANCE STATION,8A CROSS STREET,KIMBA,5641,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-33.138606,136.41928
+SAAS - KINGSCOTE STATION,AMBULANCE STATION,17 MURRAY STREET,KINGSCOTE,5223,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.654665,137.636805
+SAAS - KINGSTON STATION,AMBULANCE STATION,2 SMITHS LANE,KINGSTON SE,5275,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-36.840355,139.85379
+SAAS - LAMEROO STATION,AMBULANCE STATION,LOT 1 CHANDOS TERRACE,LAMEROO,5302,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-35.328767,140.515148
+SAAS - LEIGH CREEK STATION,AMBULANCE STATION,PT LT 305 BLACK OAK DRIVE,LEIGH CREEK,5731,SA,Flinders and Upper North Local Health Network,FUNLHN,SCSS,-30.591495,138.398329
+SAAS - LOCK STATION,AMBULANCE STATION,34 DEARMAN STREET,LOCK,5633,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-33.565545,135.755657
+SAAS - LOXTON STATION,AMBULANCE STATION,KOKODA TERRACE,LOXTON,5333,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-34.453427,140.57353
+SAAS - LUCINDALE STATION,AMBULANCE STATION,MUSGRAVE AVENUE,LUCINDALE,5272,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-36.97243,140.367133
+SAAS - MAITLAND STATION,AMBULANCE STATION,68 ROBERT STREET,MAITLAND,5573,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-34.370876,137.673772
+SAAS - MALLALA STATION,AMBULANCE STATION,LOT 747 ADELAIDE ROAD,MALLALA,5502,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-34.438357,138.509549
+SAAS - MANNUM STATION,AMBULANCE STATION,ADELAIDE ROAD,MANNUM,5238,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-34.914493,139.30197
+SAAS - MARION BAY STATION,AMBULANCE STATION,10-20 SLOW STREET,MARION BAY,5575,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-35.237444,136.980309
+SAAS - MARLA STATION,AMBULANCE STATION,LOT 9 PLOVER STREET,MARLA,5724,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-27.30206,133.622838
+SAAS - MCLAREN VALE STATION,AMBULANCE STATION,ALDERSEY STREET,MCLAREN VALE,5171,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-35.220777,138.544546
+SAAS - MEADOWS STATION,AMBULANCE STATION,70-72 MAWSON ROAD,MEADOWS,5201,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.181153,138.762823
+SAAS - MENINGIE STATION,AMBULANCE STATION,102 PRINCES HIGHWAY,MENINGIE,5264,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-35.692379,139.33679
+SAAS - MILLICENT STATION,AMBULANCE STATION,MOUNT GAMBIER ROAD,MILLICENT,5280,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-37.598163,140.358007
+SAAS - MINLATON STATION,AMBULANCE STATION,LOT 198 MAIN STREET,MINLATON,5575,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-34.773849,137.5938
+SAAS - MARION STATION,AMBULANCE STATION,346A STURT ROAD,MITCHELL PARK,5043,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-35.01654,138.564751
+SAAS - MOONTA STATION,AMBULANCE STATION,7 RYAN STREET,MOONTA,5558,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-34.068307,137.592695
+SAAS - PLAYFORD STATION,AMBULANCE STATION,LOT 1 TOLMER ROAD,ELIZABETH PARK,5113,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.7078,138.679295
+SAAS - ELLISTON STATION,AMBULANCE STATION,4-6 MEMORIAL DRIVE,ELLISTON,5670,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-33.648,134.892795
+SAAS - EUDUNDA STATION,AMBULANCE STATION,BRUCE STREET,EUDUNDA,5374,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-34.170996,139.084085
+SAAS - FULHAM STATION,AMBULANCE STATION,396 GRANGE ROAD,FULHAM GARDENS,5024,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.906501,138.51958
+SAAS - GAWLER STATION,AMBULANCE STATION,121 MAIN NORTH ROAD,GAWLER,5118,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-34.5776203,138.7466274
+SAAS - GLADSTONE STATION,AMBULANCE STATION,24 HIGH STREET,GLADSTONE,5473,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.268707,138.354007
+SAAS - NOARLUNGA STATION,AMBULANCE STATION,LOT 500 FLAXMILL ROAD,MORPHETT VALE,5162,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-35.127219,138.511355
+SAAS - MOUNT BARKER STATION,AMBULANCE STATION,21 MANN STREET,MOUNT BARKER,5251,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.068591,138.860168
+SAAS - GOOLWA STATION,AMBULANCE STATION,13 GARDINER STREET,GOOLWA,5214,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.499207,138.779764
+SAAS - HAMLEY BRIDGE STATION,AMBULANCE STATION,8 LIGHT,HAMLEY BRIDGE,5401,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-34.357139,138.682033
+SAAS - HAWKER STATION,AMBULANCE STATION,WIRREANDA TERRACE,HAWKER,5434,SA,Flinders and Upper North Local Health Network,FUNLHN,SCSS,-31.893506,138.427595
+SAAS - JAMESTOWN STATION,AMBULANCE STATION,LOT 14 MUIRKIRK STREET,JAMESTOWN,5491,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.20664,138.604743
+SAAS - KADINA STATION,AMBULANCE STATION,6 TAYLOR STREET,KADINA,5554,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.963422,137.710719
+SAAS - KAPUNDA STATION,AMBULANCE STATION,10 HILL STREET,KAPUNDA,5373,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-34.340543,138.914503
+SAAS - TAILEM BEND STATION,AMBULANCE STATION,LOT 502 GRANITES ROAD,TAILEM BEND,5260,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-35.244155,139.453455
+SAAS - TINTINARA STATION,AMBULANCE STATION,28-30 WENDT TERRACE,TINTINARA,5266,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-35.882104,140.057219
+SAAS - MITCHAM STATION,AMBULANCE STATION,221 BELAIR ROAD,TORRENS PARK,5062,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-34.985702,138.61196
+SAAS - TUMBY BAY STATION,AMBULANCE STATION,8 ESPLANADE,TUMBY BAY,5605,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-34.371559,136.104016
+SAAS - O'HALLORAN HILL STATION,AMBULANCE STATION,4 MAJORS ROAD,O'HALLORAN HILL,5158,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-35.054903,138.54494
+SAAS - ORROROO STATION,AMBULANCE STATION,12172 R M WILLIAMS WAY,ORROROO,5431,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-32.735783,138.617292
+SAAS - PADTHAWAY STATION,AMBULANCE STATION,2 MEMORIAL DRIVE,PADTHAWAY,5271,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-36.603102,140.493131
+SAAS - PARKSIDE STATION,AMBULANCE STATION,6 GLEN OSMOND ROAD,PARKSIDE,5063,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.941032,138.616048
+SAAS - WESTERN DISTRICTS STATION,AMBULANCE STATION,LOT 54 COOK STREET,PARNDANA,5220,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.789946,137.26087
+SAAS - PENNESHAW STATION,AMBULANCE STATION,LOT 98 THE LANE,PENNESHAW,5222,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.718608,137.937382
+SAAS - PENOLA STATION,AMBULANCE STATION,16E CHURCH STREET,PENOLA,5277,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-37.383539,140.836365
+SAAS - PETERBOROUGH STATION,AMBULANCE STATION,19-21 QUEEN STREET,PETERBOROUGH,5422,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-32.977011,138.842694
+SAAS - PINNAROO STATION,AMBULANCE STATION,LOT 104 HOMBURG TERRACE,PINNAROO,5304,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-35.259686,140.909884
+Royal Adelaide Hospital,Hospital,Port Road,Adelaide,5000,SA,Central Adelaide Local Health Network,CALHN,CALHN,-34.92116229,138.5870565
+Glenside Health Services,Hospital,Karrayarta Drive,Glenside,5065,SA,Central Adelaide Local Health Network,CALHN,CALHN,-34.94515064,138.6294196
+Hampstead Rehabilitation Centre,Hospital,205-207 Hampstead Road,Lightsview,5085,SA,Northern Adelaide Local Health Network,NALHN,NALHN,-34.86162671,138.6202477
+Modbury Hospital,Hospital,41-69 Smart Road,Modbury,5092,SA,Northern Adelaide Local Health Network,NALHN,NALHN,-34.83427006,138.6905036
+Flinders Medical Centre,Hospital,Flinders Drive,Bedford Park,5042,SA,Southern Adelaide Local Health Network,SALHN,SALHN,-35.02107864,138.5690702
+Women's & Children's Hospital,Hospital,72 King William Road,North Adelaide,5006,SA,Women's and Children's Health Network,WCHN,WCHN,-34.9115132,138.5999409
+The Queen Elizabeth Hospital,Hospital,28 Woodville Road,Woodville South,5011,SA,Central Adelaide Local Health Network,CALHN,CALHN,-34.88353357,138.5338396
+Lyell McEwin Hospital,Hospital,120-130 Haydown Road,Elizabeth Vale,5112,SA,Northern Adelaide Local Health Network,NALHN,NALHN,-34.74769059,138.6648365
+Pregnancy Advisory Centre,Hospital,21 Belmore Terrace,Woodville,5011,SA,Central Adelaide Local Health Network,CALHN,CALHN,-34.88019321,138.5430744
+Noarlunga Hospital,Hospital,Alexander Kelly Drive,Noarlunga,5168,SA,Southern Adelaide Local Health Network,SALHN,SALHN,-35.13959254,138.5004162
+Central Yorke Peninsula Hospital (Maitland),Hospital,68 Robert Street,Maitland,5573,SA,Yorke and Northern Local Health Network,YNLHN,YNLHN,-34.37041125,137.6742453
+Mannum District Hospital,Hospital,Parker Street,Mannum,5238,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,RMCLHN,-34.91659826,139.3085491
+Booleroo Centre District Hospital and Health Services,Hospital,5-9 Stephens Street,Booleroo Centre,5482,SA,Yorke and Northern Local Health Network,YNLHN,YNLHN,-32.87788587,138.3510711
+Pinnaroo Soldiers' Memorial Hospital,Hospital,Bundey Terrace,Pinnaroo,5304,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,RMCLHN,-35.25743749,140.9024146
+Port Broughton and District Hospital and Health Service,Hospital,56-82 Bay Road,Port Broughton,5522,SA,Yorke and Northern Local Health Network,YNLHN,YNLHN,-33.60103827,137.9339155
+Port Lincoln Health Service,Hospital,39 Oxford Terrace,Port Lincoln,5606,SA,Eyre and Far North Local Health Network,EFNLHN,EFNLHN,-34.72400348,135.8503046
+Port Pirie Regional Health Service,Hospital,Alexander Street,Port Pirie,5540,SA,Yorke and Northern Local Health Network,YNLHN,YNLHN,-33.17700706,138.0050886
+Roxby Downs Health Service,Hospital,16-28 Burgoyne Street,Roxby Downs,5725,SA,Flinders and Upper North Local Health Network,FUNLHN,FUNLHN,-30.56263501,136.8943098
+Angaston District Hospital,Hospital,29 North Street,Angaston,5353,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,BHFLHN,-34.50378806,139.0543126
+Cowell District Hospital and Aged Care,Hospital,17 South Terrace,Cowell,5602,SA,Eyre and Far North Local Health Network,EFNLHN,EFNLHN,-33.68559169,136.9214702
+DASSA - Central Services,Drug and Alcohol Services South Australia,CALHN,91 Magill Road,Stepney,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.9151822,138.6298709
+DASSA - Northern Services,Drug and Alcohol Services South Australia,NALHN,22 Langford Drive,Elizabeth,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.71961485,138.6642753
+DASSA - Southern Services,Drug and Alcohol Services South Australia,SALHN,1/209 Main South Rd,Morphett Vale,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-35.11847014,138.5221585
+SAPHARM - Flinders Medical Centre,SA Pharmacy,Flinders Drive,Bedford Park,5042,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-35.02265986,138.5690942
+SAPHARM - Gawler Health Service,SA Pharmacy,21 Hutchinson Road,Gawler East,5118,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-34.59325843,138.7551595
+SAPHARM - Glenside Health Campus (Inpatient Rehab Services Building,SA Pharmacy,2 Karrayarta Drive,Glenside,5065,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.94508366,138.6293341
+SAPHARM - Hampstead Rehabilitation Centre (HRC),SA Pharmacy,205-207 Hampstead Road,Lightsview,5085,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.86124353,138.6201593
+SAPHARM - Lyell McEwin Hospital,SA Pharmacy,120-130 Haydown Road,Elizabeth Vale,5112,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.74743454,138.6645564
+SAPHARM - Modbury Hospital,SA Pharmacy,Smart Road,Modbury,5092,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.83400927,138.6904499
+SAPHARM - Mount Barker District Soilder's Memorial Hospital,SA Pharmacy,87 Wellington Road,Mount Barker,5251,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.08206357,138.8700541
+SAPHARM - Mount Gambier Hospital,SA Pharmacy,276-300 Wehl Street North,Mount Gambier,5290,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-37.80547184,140.7864909
+SAPHARM - Murray Bridge Soldiers' Memorial Hospital,SA Pharmacy,96 Swanport Road,Murray Bridge,5253,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-35.12897204,139.2805398
+SAPHARM - Noarlunga Hospital,SA Pharmacy,Alexander Kelly Drive,Noarlunga,5168,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-35.13984897,138.50013
+SAPHARM - Port Augusta Hospital,SA Pharmacy,71 Hospital Road,Port Augusta,5700,SA,Flinders and Upper North Local Health Network,FUNLHN,SCSS,-32.51014738,137.7755991
+SAPHARM - Port Lincoln Hospital,SA Pharmacy,39 Oxford Terrace,Port Lincoln,5606,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-34.72411464,135.8502118
+SAPHARM - Port Pirie Regional Health Service,SA Pharmacy,Alexander Street,Port Pirie,5540,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.17761327,138.0047544
+SAPHARM - Repat Health Precinct Pharmacy,SA Pharmacy,216 Daws Road,Daw Park,5041,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-34.99050271,138.587978
+SAPHARM - Riverland General Hospital (Berri),SA Pharmacy,10 Maddern Street,Berri,5343,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-34.27596158,140.6010172
+SAPHARM - Royal Adelaide Hospital (RAH),SA Pharmacy,Port Road,Adelaide,5000,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.92111586,138.5875799
+SAPHARM - Victor Harbor Hospital (Southern Fleurieu Health Service),SA Pharmacy,Harbour View Terrace,Victor Harbor,5211,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.56132354,138.6067946
+SAPHARM - The Queen Elizabeth Hospital (TQEH),SA Pharmacy,28 Woodville Road,Woodville South,5011,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.88390752,138.5329495
+SAPHARM - Whyalla Hospital,SA Pharmacy,20 Wood Terrace,Whyalla,5600,SA,Flinders and Upper North Local Health Network,FUNLHN,SCSS,-33.03421634,137.5771118
+SAPHARM - Women's and Children's Hospital,SA Pharmacy,72 King William Road,North Adelaide,5006,SA,Women's & Children's Health Network,WCHN,SCSS,-34.9119398,138.600183
+Crystal Brook and District Hospital,Hospital,Edmund Terrace,Crystal Brook,5523,SA,Yorke and Northern Local Health Network,YNLHN,YNLHN,-33.3542188,138.2131409
+Quorn Health Service,Hospital,Hospital Road,Quorn,5433,SA,Flinders and Upper North Local Health Network,FUNLHN,FUNLHN,-32.35095807,138.0383523
+Elliston Hospital,Hospital,4-6 Memorial Drive,Elliston,5670,SA,Eyre and Far North Local Health Network,EFNLHN,EFNLHN,-33.64792035,134.8923437
+Eudunda Hospital,Hospital,40 Ward Street,Eudunda,5374,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,BHFLHN,-34.17549087,139.0905369
+Orroroo and District Health Service,Hospital,Pekina Road,Orroroo,5431,SA,Yorke and Northern Local Health Network,YNLHN,YNLHN,-32.73841787,138.6072674
+Kangaroo Island Health Service,Hospital,3 The Esplanade,Kingscote,5223,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,BHFLHN,-35.65278173,137.6413758
+Meningie and Districts Memorial Hospital and Health Services,Hospital,2 South Terrace,Meningie,5264,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,RMCLHN,-35.69321694,139.3356928
+Millicent and Districts Hospital and Health Service,Hospital,33 Mount Gambier Road,Millicent,5280,SA,Limestone Coast Local Health Network,LCLHN,LCLHN,-37.59832828,140.3590534
+Mount Gambier and Districts Health Service,Hospital,276-300 Wehl Street North,Mount Gambier,5290,SA,Limestone Coast Local Health Network,LCLHN,LCLHN,-37.80534193,140.786678
+Mount Pleasant District Hospital,Hospital,28 Hospital Road,Mount Pleasant,5235,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,BHFLHN,-34.773857,139.0546381
+Ceduna District Health Service,Hospital,3 Eyre Highway,Ceduna,5690,SA,Eyre and Far North Local Health Network,EFNLHN,EFNLHN,-32.11905972,133.6721315
+Coober Pedy Hospital and Health Service,Hospital,Lot 89 Hospital Road,Coober Pedy,5723,SA,Eyre and Far North Local Health Network,EFNLHN,EFNLHN,-29.00485562,134.7621714
+Snowtown Hospital and Health Service,Hospital,South Terrace,Snowtown,5520,SA,Yorke and Northern Local Health Network,YNLHN,YNLHN,-33.78690037,138.2127269
+Streaky Bay Hospital,Hospital,1 Flinders Drive,Streaky Bay,5680,SA,Eyre and Far North Local Health Network,EFNLHN,EFNLHN,-32.79281704,134.217526
+Naracoorte Health Service,Hospital,101 Jenkins Terrace,Naracoorte,5271,SA,Limestone Coast Local Health Network,LCLHN,LCLHN,-36.96676765,140.7438933
+Hawker Memorial Hospital,Hospital,9 Druid Range Drive,Hawker,5434,SA,Flinders and Upper North Local Health Network,FUNLHN,FUNLHN,-31.89334248,138.4279133
+Whyalla Hospital and Health Services,Hospital,20 Wood Terrace,Whyalla,5600,SA,Flinders and Upper North Local Health Network,FUNLHN,FUNLHN,-33.03358831,137.5777127
+Tailem Bend District Hospital,Hospital,74 Princes Highway,Tailem Bend,5260,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,RMCLHN,-35.25484025,139.4525965
+Tumby Bay Hospital and Health Services,Hospital,8-11 Esplanade,Tumby Bay,5605,SA,Eyre and Far North Local Health Network,EFNLHN,EFNLHN,-34.37224191,136.1040525
+Strathalbyn and District Health Service,Hospital,14 Alfred Place,Strathalbyn,5255,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,BHFLHN,-35.25774026,138.8936328
+Mount Barker District Soldiers' Memorial Hospital,Hospital,87 Wellington Road,Mount Barker,5251,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,BHFLHN,-35.08207736,138.8702688
+Murray Bridge Soldiers' Memorial Hospital,Hospital,96 Swanport Road,Murray Bridge,5253,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,RMCLHN,-35.12877634,139.2804234
+Victor Harbor Hospital (Southern Fleurieu Health Service),Hospital,Harbour View Terrace,Victor Harbor,5211,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,BHFLHN,-35.56121654,138.6068661
+Riverland General Hospital,Hospital,10 Maddern Street,Berri,5343,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,RMCLHN,-34.27625633,140.6014466
+Tanunda War Memorial Hospital,Hospital,15 Mill Street,Tanunda,5352,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,BHFLHN,-34.527989,138.9609245
+Riverton District Soldiers' Memorial Hospital,Hospital,23 Moorhouse Terrace,Riverton,5412,SA,Yorke and Northern Local Health Network,YNLHN,YNLHN,-34.16034914,138.7423955
+Jamestown Hospital and Health Service,Hospital,43 South Terrace,Jamestown,5491,SA,Yorke and Northern Local Health Network,YNLHN,YNLHN,-33.21227088,138.6162647
+Kapunda Hospital,Hospital,26 Nash Street,Kapunda,5373,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,BHFLHB,-34.33042034,138.9216154
+Karoonda and District Soldiers' Memorial Hospital,Hospital,13 Stokes Road,Karoonda,5307,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,RMCLHN,-35.09418662,139.8894966
+Kimba District Hospital and Aged Care,Hospital,15 Martin Terrace,Kimba,5641,SA,Eyre and Far North Local Health Network,EFNLHN,EFNLHN,-33.14345054,136.4160404
+Kingston Soldiers' Memorial Hospital,Hospital,Cnr Cooke and Young Street,Kingston SE,5275,SA,Limestone Coast Local Health Network,LCLHN,LCLHN,-36.83518584,139.8485723
+Lameroo District Health Service,Hospital,1A Vardon Terrace,Lameroo,5302,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,RMCLHN,-35.32819758,140.5145836
+Laura and District Hospital,Hospital,33 Mill Street,Laura,5480,SA,Yorke and Northern Local Health Network,YNLHN,YNLHN,-33.17503808,138.2986069
+Peterborough Soldiers' Memorial Hospital,Hospital,23 Hurlstone Street,Peterborough,5422,SA,Yorke and Northern Local Health Network,YNLHN,YNLHN,-32.98077241,138.830363
+Barmera Health Service,Hospital,Hawdon Street,Barmera,5345,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,RMCLHN,-34.24924179,140.4718524
+Loxton Hospital Complex,Hospital,41 Drabsch Street,Loxton,5333,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,RMCLHN,-34.45448413,140.5642366
+Renmark Paringa District Hospital,Hospital,Ral Ral Avenue,Renmark,5341,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,RMCLHN,-34.1645446,140.7448324
+Burra Hospital,Hospital,46 Commercial Street,Burra,5417,SA,Yorke and Northern Local Health Network,YNLHN,YNLHN,-33.68542237,138.934347
+Clare Hospital,Hospital,47 Farrel Flat Road,Clare,5453,SA,Yorke and Northern Local Health Network,YNLHN,YNLHN,-33.82958161,138.6144959
+Cleve District Hospital and Aged Care,Hospital,North Terrace,Cleve,5640,SA,Eyre and Far North Local Health Network,EFNLHN,EFNLHN,-33.69790384,136.494253
+Cummins and District Memorial Hospital,Hospital,19-21 Tumby Bay Road,Cummins,5631,SA,Eyre and Far North Local Health Network,EFNLHN,EFNLHN,-34.26419117,135.732922
+Waikerie Health Service,Hospital,1 Lawrie Terrace,Waikerie,5330,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,RMCLHN,-34.18255948,139.9853567
+Northern Yorke Peninsula Health Service (Wallaroo),Hospital,1 Ernest Terrace,Wallaroo,5556,SA,Yorke and Northern Local Health Network,YNLHN,YNLHN,-33.92730585,137.636895
+Wudinna Hospital,Hospital,16-24 Richards Avenue,Wudinna,5652,SA,Eyre and Far North Local Health Network,EFNLHN,EFNLHN,-33.05021784,135.4670727
+Southern Yorke Peninsula Health Service (Yorketown),Hospital,19 Waterloo Bay Road,Yorketown,5576,SA,Yorke and Northern Local Health Network,YNLHN,YNLHN,-35.0210697,137.6050618
+Balaklava Soldiers' Memorial District Hospital,Hospital,16 War Memorial Drive,Balaklava,5461,SA,Yorke and Northern Local Health Network,YNLHN,YNLHN,-34.13965329,138.4201934
+Gumeracha District Soldiers' Memorial Hospital,Hospital,2 Albert Street,Gumeracha,5233,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,BHFLHN,-34.82630839,138.8817737
+Gawler Health Service,Hospital,21 Hutchinson Road,Gawler East,5118,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,BHFLHN,-34.59344267,138.7552282
+Bordertown Memorial Hospital,Hospital,23 South Terrace,Bordertown,5268,SA,Limestone Coast Local Health Network,LCLHN,LCLHN,-36.31205166,140.7665544
+Port Augusta Hospital and Regional Health Services,Hospital,71 Hospital Road,Port Augusta,5700,SA,Flinders and Upper North Local Health Network,FUNLHN,FUNLHN,-32.51032649,137.7757122
+Penola War Memorial Hospital,Hospital,18 Church Street,Penola,5277,SA,Limestone Coast Local Health Network,LCLHN,LCLHN,-37.3827006,140.8364903
+James Nash House,Hospital,140 Hilltop Drive,Oakden,5086,SA,Northern Adelaide Local Health Network,NALHN,NALHN,-34.84962908,138.6382592
+The Repat Precinct,Hospital,216 Daws Road,Daw Park,5041,SA,Southern Adelaide Local Health Network,SALHN,SALHN,-34.99031206,138.5879754
+SAAS - PORT ADELAIDE STATION,AMBULANCE STATION,3-5 SANTO PDE,PORT ADELAIDE,5015,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.843073,138.511529
+SAAS - PORT AUGUSTA STATION,AMBULANCE STATION,6 GILES STREET,PORT AUGUSTA,5700,SA,Flinders and Upper North Local Health Network,FUNLHN,SCSS,-32.509242,137.777111
+SAAS - PORT BROUGHTON STATION,AMBULANCE STATION,BAY STREET,PORT BROUGHTON,5522,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.601133,137.934676
+SAAS - PORT LINCOLN STATION,AMBULANCE STATION,4 MARINE AVENUE,PORT LINCOLN,5606,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-34.724833,135.850637
+SAAS - PORT NEILL STATION,AMBULANCE STATION,BICE STREET,PORT NEILL,5604,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-34.119489,136.349029
+SAAS - PORT PIRIE STATION,AMBULANCE STATION,97 GREY TERRACE,PORT PIRIE SOUTH,5540,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.189924,138.005897
+SAAS - PORT WAKEFIELD STATION,AMBULANCE STATION,2 BURRA STREET,PORT WAKEFIELD,5550,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-34.186304,138.153178
+SAAS - PROSPECT STATION,AMBULANCE STATION,478-480 REGENCY ROAD,PROSPECT,5082,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.8735,138.600431
+SAAS - QUORN STATION,AMBULANCE STATION,LOT 501 WEST TERRACE,QUORN,5433,SA,Flinders and Upper North Local Health Network,FUNLHN,SCSS,-32.351506,138.037861
+SAAS - REDWOOD PARK STATION,AMBULANCE STATION,LOT 540 GAYLARD CRES,REDWOOD PARK,5097,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.816977,138.69526
+SAAS - RENMARK STATION,AMBULANCE STATION,LOT 567 EIGHTEENTH STREET,RENMARK,5341,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-34.174337,140.744994
+SAAS - MOUNT GAMBIER STATION,AMBULANCE STATION,46 PENOLA ROAD,MOUNT GAMBIER,5290,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-37.824895,140.782817
+SAAS - MOUNT PLEASANT STATION,AMBULANCE STATION,HOSPITAL ROAD,MOUNT PLEASANT,5235,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-34.773066,139.05413
+SAAS - NANGWARRY STATION,AMBULANCE STATION,LOT 304 BEDNALL DRIVE,NANGWARRY,5277,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-37.542624,140.814199
+SAAS - NARACOORTE STATION,AMBULANCE STATION,BUTLER TERRACE,NARACOORTE,5271,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-36.964619,140.744479
+SAAS - CAMPBELLTOWN STATION,AMBULANCE STATION,MONTACUTE ROAD,NEWTON,5074,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.888191,138.676776
+SAAS - RIVERTON STATION,AMBULANCE STATION,16 TORRENS ROAD,RIVERTON,5412,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-34.156881,138.748257
+SAAS - ROBE STATION,AMBULANCE STATION,LOT 1 O'HALLORAN STREET,ROBE,5276,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-37.165396,139.751497
+SAAS - ROXBY DOWNS STATION,AMBULANCE STATION,16-28 BURGOYNE STREET,ROXBY DOWNS,5725,SA,Flinders and Upper North Local Health Network,FUNLHN,SCSS,-30.562737,136.89392
+SAAS - SALISBURY STATION (CLINICAL EDUCATION),AMBULANCE STATION,1-3 BREMEN DRIVE,SALISBURY SOUTH,5106,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.783755,138.637493
+SAAS - SNOWTOWN STATION,AMBULANCE STATION,3-5 ADELAIDE ROAD,SNOWTOWN,5520,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.788022,138.210936
+SAAS - STRATHALBYN STATION,AMBULANCE STATION,3 RANKINE STREET,STRATHALBYN,5255,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.259809,138.893083
+SAAS - STREAKY BAY STATION,AMBULANCE STATION,1 FLINDERS DRIVE,STREAKY BAY,5680,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-32.792973,134.217697
+SAAS - SWAN REACH STATION,AMBULANCE STATION,NILDOTTIE ROAD,SWAN REACH,5354,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-34.570718,139.598698
+SAAS - YORKETOWN STATION,AMBULANCE STATION,7 WEANERS STREET,YORKETOWN,5576,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-35.021213,137.606596
+SAAS - YUNTA STATION,AMBULANCE STATION,LOT 3 RAILWAY TERRACE,YUNTA,5440,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-32.581592,139.561251
+SAAS - BURRA STATION,AMBULANCE STATION,MARKET SQ,BURRA,5417,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.673347,138.930168
+SAAS - MORGAN STATION,AMBULANCE STATION,FIRST STREET,MORGAN,5320,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-34.032994,139.670403
+SAAS - MURRAY BRIDGE STATION,AMBULANCE STATION,DARLING AVENUE,MURRAY BRIDGE,5253,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-35.144099,139.285585
+SAAS - VICTOR HARBOR STATION,AMBULANCE STATION,45-47 TORRENS STREET,VICTOR HARBOR,5211,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.554943,138.619881
+SAAS - WAIKERIE STATION,AMBULANCE STATION,LOT 480 DOWLING STREET,WAIKERIE,5330,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-34.182303,139.986921
+SAAS - WALLAROO STATION,AMBULANCE STATION,LOT 20 ERNEST TERRACE,WALLAROO,5556,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-33.929037,137.636314
+SAAS - WAROOKA STATION,AMBULANCE STATION,36 MAIN STREET,WAROOKA,5577,SA,Yorke and Northern Local Health Network,YNLHN,SCSS,-34.990493,137.401778
+SAAS - WHYALLA STATION,AMBULANCE STATION,LOT 104 ST JOHN CRES,WHYALLA PLAYFORD,5600,SA,Flinders and Upper North Local Health Network,FUNLHN,SCSS,-33.028661,137.552665
+SAAS - WOODSIDE STATION,AMBULANCE STATION,24 ONKAPARINGA VALL ROAD,WOODSIDE,5244,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-34.953545,138.875872
+SAAS - WUDINNA STATION,AMBULANCE STATION,LOT 29 RICHARDS AVENUE,WUDINNA,5652,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-33.050307,135.465128
+SAAS - YANKALILLA STATION,AMBULANCE STATION,81 MAIN STREET,YANKALILLA,5203,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-35.458381,138.351519
+"SAAS - SAAS - Rescue, Retrieval and Aviation Services Base",AMBULANCE STATION,"ADELAIDE AIRPORT, 2 SIR REGINALD ANSETT DRIVE",ADELAIDE AIRPORT,5950,SA,Central Adelaide Local Health Network,CALHN,SCSS,-34.9469867,138.5212966
+SAAS - SALT CREEK,AMBULANCE STATION,11097 PRINCES HIGHWAY,SALT CREEK,5264,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-36.1274143,139.6500158
+SAAS - SEAFORD STATION,AMBULANCE STATION,80 SEAFORD ROAD,SEAFORD,5169,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-35.1810754,138.4781708
+SAAS - GEPPS CROSS STATION,AMBULANCE STATION,7 SCANIA COURT,GEPPS CROSS,5094,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.8444235,138.593479
+SAAS - EDWARDSTOWN - STATION,AMBULANCE STATION,220 DAWS ROAD,EDWARDSTOWN,5041,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-34.991639,138.5910151
+SAAS - PORT MACDONNELL - STATION,AMBULANCE STATION,MEYLIN STREET,PORT MACDONNELL,5291,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-38.0530889,140.6996545
+SAAS - PORT KENNY - STATION,AMBULANCE STATION,LITTLE STREET,PORT KENNY,5671,SA,Eyre and Far North Local Health Network,EFNLHN,SCSS,-33.1656953,134.6835453
+SAAS - PARAFIELD STATION,AMBULANCE STATION,1A LOCKHEED LANE,PARAFIELD,5160,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.787491,138.6383122
+SAAS - OAKDEN STATION,AMBULANCE STATION,285 FOSTERS ROAD,OAKDEN,5086,SA,Northern Adelaide Local Health Network,NALHN,SCSS,-34.8510693,138.6358532
+SAAS - GLENGOWRIE,AMBULANCE STATION,88A MORPHETT ROAD,GLENGOWRIE,5044,SA,Southern Adelaide Local Health Network,SALHN,SCSS,-34.9804943,138.5376453
+SAAS - BIRDWOOD,AMBULANCE STATION,CORNER TORRENS VALLEY ROAD & BLUMEL ROAD,BIRDWOOD,5234,SA,Barossa Hills Fleurieu Local Health Network,BHFLHN,SCSS,-34.820389,138.9526356
+SAAS - BEACHPORT STATION,AMBULANCE STATION,GOLFCOURSE ROAD,BEACHPORT,5280,SA,Limestone Coast Local Health Network,LCLHN,SCSS,-37.4767386,140.0098549
+SAAS - UPPER MURRAY MALLEE VOLUNTEER REGIONA RESPONSE TEAM,AMBULANCE STATION,25 CORNWALL STREET,BERRI,5343,SA,Riverland Mallee Coorong Local Health Network,RMCLHN,SCSS,-34.2774349,140.602151
