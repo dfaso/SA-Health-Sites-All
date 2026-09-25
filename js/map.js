@@ -212,6 +212,16 @@ function attachUiEvents() {
 
   document
     .getElementById(
+      "type-filter"
+    )
+    .addEventListener(
+      "change",
+      applyFilters
+    );
+  
+  
+  document
+    .getElementById(
       "governing-body-filter"
     )
     .addEventListener(
@@ -594,6 +604,13 @@ function populateDropdown(
 
 function applyFilters() {
 
+  const type =
+    document
+      .getElementById(
+        "type-filter"
+      )
+      .value;
+  
   const governingBody =
     document
       .getElementById(
@@ -627,6 +644,13 @@ function applyFilters() {
         const properties =
           feature.properties;
 
+        if (
+          type &&
+          properties["Type"] !==
+            type
+        ) {
+          return false;
+        }
 
         if (
           governingBody &&
