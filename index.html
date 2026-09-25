@@ -40,102 +40,102 @@
     <div id="map"></div>
 
     <!-- Toolbar -->
-    <div id="map-toolbar" class="bg-dark text-white shadow-sm">
+<div id="map-toolbar" class="bg-dark text-white shadow-sm">
 
-      <div class="row g-3 align-items-end">
+  <div class="row g-2 align-items-end">
 
-        <!-- Site Count -->
-        <div class="col-12 col-md-auto me-md-auto">
-          <div class="small text-white-50">
-            Sites shown
-          </div>
+    <!-- Site Count -->
+    <div class="col-12 col-md-auto">
+      <div class="small text-white-50">
+        Sites shown
+      </div>
 
-          <div id="site-count" class="fs-4 fw-semibold">
-            0
-          </div>
-        </div>
-
-      <!-- Type Body -->
-        <div class="col-12 col-md-3">
-          <label
-            for="type-filter"
-            class="form-label small mb-1">
-            Site Type
-          </label>
-
-          <select
-            id="type-filter"
-            class="form-select form-select-sm">
-            <option value="">All</option>
-          </select>
-        </div>
-        
-        <!-- Governing Body -->
-        <div class="col-12 col-md-3">
-          <label
-            for="governing-body-filter"
-            class="form-label small mb-1">
-            Governing Body
-          </label>
-
-          <select
-            id="governing-body-filter"
-            class="form-select form-select-sm">
-            <option value="">All</option>
-          </select>
-        </div>
-
-        <!-- Geographical LHN -->
-        <div class="col-12 col-md-3">
-          <label
-            for="geographical-lhn-filter"
-            class="form-label small mb-1">
-            Geographical LHN
-          </label>
-
-          <select
-            id="geographical-lhn-filter"
-            class="form-select form-select-sm">
-            <option value="">All</option>
-          </select>
-        </div>
-
-        <!-- Search -->
-        <div class="col-12 col-md-3">
-          <label
-            for="site-search"
-            class="form-label small mb-1">
-            Search
-          </label>
-
-          <input
-            id="site-search"
-            type="search"
-            class="form-control form-control-sm"
-            placeholder="Name, type, suburb, address..."
-          >
-        </div>
-
-        <!-- Reset -->
-        <div class="col-6 col-md-auto">
-          <button
-            id="reset-button"
-            class="btn btn-outline-light btn-sm w-100">
-            Show All / Reset View
-          </button>
-        </div>
-
-        <!-- Export -->
-        <div class="col-6 col-md-auto">
-          <button
-            id="export-button"
-            class="btn btn-primary btn-sm w-100">
-            Export CSV
-          </button>
-        </div>
-
+      <div id="site-count" class="fs-4 fw-semibold">
+        0
       </div>
     </div>
+
+    <!-- Site Type -->
+    <div class="col-12 col-md-2">
+      <label
+        for="type-filter"
+        class="form-label small mb-1">
+        Site Type
+      </label>
+
+      <select
+        id="type-filter"
+        class="form-select form-select-sm">
+        <option value="">All</option>
+      </select>
+    </div>
+
+    <!-- Governing Body -->
+    <div class="col-12 col-md-2">
+      <label
+        for="governing-body-filter"
+        class="form-label small mb-1">
+        Governing Body
+      </label>
+
+      <select
+        id="governing-body-filter"
+        class="form-select form-select-sm">
+        <option value="">All</option>
+      </select>
+    </div>
+
+    <!-- Geographical LHN -->
+    <div class="col-12 col-md-2">
+      <label
+        for="geographical-lhn-filter"
+        class="form-label small mb-1">
+        Geographical LHN
+      </label>
+
+      <select
+        id="geographical-lhn-filter"
+        class="form-select form-select-sm">
+        <option value="">All</option>
+      </select>
+    </div>
+
+    <!-- Search -->
+    <div class="col-12 col-md-3">
+      <label
+        for="site-search"
+        class="form-label small mb-1">
+        Search
+      </label>
+
+      <input
+        id="site-search"
+        type="search"
+        class="form-control form-control-sm"
+        placeholder="Name, type, suburb, address..."
+      >
+    </div>
+
+    <!-- Reset -->
+    <div class="col-6 col-md-auto">
+      <button
+        id="reset-button"
+        class="btn btn-outline-light btn-sm w-100">
+        Show All / Reset View
+      </button>
+    </div>
+
+    <!-- Export -->
+    <div class="col-6 col-md-auto">
+      <button
+        id="export-button"
+        class="btn btn-primary btn-sm w-100">
+        Export CSV
+      </button>
+    </div>
+
+  </div>
+</div>
 
     <!-- Table -->
     <div id="table-container" class="mt-4">
