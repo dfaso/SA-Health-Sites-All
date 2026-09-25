@@ -106,7 +106,7 @@ map.on("load", async () => {
   // ============================================================
 
   const response =
-    await fetch("./data/combined_sites.geojson");
+    await fetch("./data/combined-sites.geojson");
 
 
   allSiteData =
@@ -121,7 +121,7 @@ map.on("load", async () => {
   // SITE SOURCE
   // ============================================================
 
-  map.addSource("combined_sites", {
+  map.addSource("combined-sites", {
     type: "geojson",
     data: allSiteData
   });
@@ -132,9 +132,9 @@ map.on("load", async () => {
   // ============================================================
 
   map.addLayer({
-    id: "combined_sites",
+    id: "combined-sites",
     type: "circle",
-    source: "combined_sites",
+    source: "combined-sites",
 
     paint: {
       "circle-radius": 6,
@@ -150,13 +150,13 @@ map.on("load", async () => {
   // ============================================================
 
   populateDropdown(
-    "governing-lhn-filter",
+    "Governing Body-filter",
     "Governing LHN"
   );
 
 
   populateDropdown(
-    "geographical-lhn-filter",
+    "Geographical LHN-filter",
     "Geographical LHN"
   );
 
@@ -166,7 +166,7 @@ map.on("load", async () => {
   // ============================================================
 
   document
-    .getElementById("governing-lhn-filter")
+    .getElementById("Governing Body-filter")
     .addEventListener(
       "change",
       applyFilters
@@ -174,7 +174,7 @@ map.on("load", async () => {
 
 
   document
-    .getElementById("geographical-lhn-filter")
+    .getElementById("Geographical LHN-filter")
     .addEventListener(
       "change",
       applyFilters
@@ -227,7 +227,7 @@ map.on("load", async () => {
 
   map.on(
     "mouseenter",
-    "combined_sites",
+    "combined-sites",
     event => {
 
       map.getCanvas().style.cursor =
@@ -298,7 +298,7 @@ map.on("load", async () => {
 
   map.on(
     "mouseleave",
-    "combined_sites",
+    "combined-sites",
     () => {
 
       map.getCanvas().style.cursor =
@@ -317,7 +317,7 @@ map.on("load", async () => {
 
   map.on(
     "click",
-    "combined_sites",
+    "combined-sites",
     event => {
 
       if (!event.features.length) {
@@ -364,7 +364,7 @@ map.on("load", async () => {
       // ========================================================
 
       map
-        .getSource("combined_sites")
+        .getSource("combined-sites")
         .setData(
           currentFilteredData
         );
@@ -421,7 +421,7 @@ map.on("load", async () => {
           event.point,
           {
             layers: [
-              "combined_sites"
+              "combined-sites"
             ]
           }
         );
@@ -454,7 +454,7 @@ map.on("load", async () => {
 
       document
         .getElementById(
-          "geographical-lhn-filter"
+          "Geographical LHN-filter"
         )
         .value =
           clickedLhn;
@@ -594,7 +594,7 @@ function applyFilters() {
   const governingLhn =
     document
       .getElementById(
-        "governing-lhn-filter"
+        "Governing Body-filter"
       )
       .value;
 
@@ -602,7 +602,7 @@ function applyFilters() {
   const geographicalLhn =
     document
       .getElementById(
-        "geographical-lhn-filter"
+        "Geographical LHN-filter"
       )
       .value;
 
@@ -705,7 +705,7 @@ function applyFilters() {
   // ============================================================
 
   map
-    .getSource("combined_sites")
+    .getSource("combined-sites")
     .setData(
       currentFilteredData
     );
@@ -829,7 +829,7 @@ function resetMap() {
 
   document
     .getElementById(
-      "governing-lhn-filter"
+      "Governing Body-filter"
     )
     .value =
       "";
@@ -841,7 +841,7 @@ function resetMap() {
 
   document
     .getElementById(
-      "geographical-lhn-filter"
+      "Geographical LHN-filter"
     )
     .value =
       "";
@@ -872,7 +872,7 @@ function resetMap() {
   // ============================================================
 
   map
-    .getSource("combined_sites")
+    .getSource("combined-sites")
     .setData(
       allSiteData
     );
@@ -1055,7 +1055,7 @@ function exportCurrentSites() {
 
 
   link.download =
-    "combined_sites_export.csv";
+    "combined-sites_export.csv";
 
 
   document.body.appendChild(
