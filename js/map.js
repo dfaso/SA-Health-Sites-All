@@ -48,6 +48,12 @@ map.on("load", async () => {
     await loadLhnBoundaries();
     await loadSiteData();
 
+
+    populateDropdown(
+      "type-filter",
+      "Type"
+    );
+    
     populateDropdown(
       "governing-body-filter",
       "Governing Body"
