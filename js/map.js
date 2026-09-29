@@ -8,26 +8,6 @@ const INITIAL_ZOOM = 5;
 const SITE_DATA_URL = "./data/combined-sites.geojson";
 const LHN_DATA_URL = "./data/LHN.geojson";
 
-const DEFAULT_SITE_COLOR = "#FF4A4A";
-
-const GOVERNING_BODY_COLORS = {
-  "CALHN":  "#2E86AB",
-  "SALHN":  "#F18F01",
-  "NALHN":  "#D1495B",
-  "BHFLHN": "#6A4C93",
-  "LCLHN":  "#00A896",
-  "RMCLHN": "#F4D35E",
-  "EFNLHN": "#577590",
-  "YNLHN":  "#43AA8B",
-  "FUNLHN": "#F3722C",
-  "WCHN":   "#9B5DE5",
-  "SAAS":   "#0077B6",
-  "DASSA":  "#8A5A44",
-  "SCSS":   "#5F6F52"
-};
-
-let colourByGoverningBody = true;
-
 
 // ============================================================
 // GLOBAL STATE
@@ -54,78 +34,6 @@ const map = new maplibregl.Map({
 map.addControl(
   new maplibregl.NavigationControl(),
   "top-left"
-);
-
-
-// Governing body colour toggle and legend
-class GoverningBodyColourControl {
-
-  onAdd(mapInstance) {
-
-    this.map = mapInstance;
-
-    this.container =
-      document.createElement("div");
-
-    this.container.className =
-      "maplibregl-ctrl governing-body-map-control";
-
-    this.container.innerHTML = `
-      <label class="governing-body-toggle">
-        <input
-          id="governing-body-colour-toggle"
-          type="checkbox"
-          ${colourByGoverningBody ? "checked" : ""}
-        >
-        <span>Colour by Governing Body</span>
-      </label>
-
-      <div
-        id="governing-body-legend"
-        class="governing-body-legend">
-      </div>
-    `;
-
-    const checkbox =
-      this.container.querySelector(
-        "#governing-body-colour-toggle"
-      );
-
-    checkbox.addEventListener(
-      "change",
-      event => {
-
-        colourByGoverningBody =
-          event.target.checked;
-
-        updateSiteColours();
-        updateGoverningBodyLegend();
-
-      }
-    );
-
-    updateGoverningBodyLegend(
-      this.container
-    );
-
-    return this.container;
-
-  }
-
-
-  onRemove() {
-
-    this.container.remove();
-    this.map = undefined;
-
-  }
-
-}
-
-
-map.addControl(
-  new GoverningBodyColourControl(),
-  "top-right"
 );
 
 
@@ -293,131 +201,11 @@ async function loadSiteData() {
 
     paint: {
       "circle-radius": 6,
-      "circle-color": getGoverningBodyColourExpression(),
+      "circle-color": "#FF4A4A",
       "circle-stroke-color": "#ffffff",
       "circle-stroke-width": 1
     }
   });
-
-}
-
-
-// ============================================================
-// GOVERNING BODY COLOURS
-// ============================================================
-
-function getGoverningBodyColourExpression() {
-
-  const expression = [
-    "match",
-    ["get", "Governing Body"]
-  ];
-
-
-  Object.entries(
-    GOVERNING_BODY_COLORS
-  ).forEach(
-    ([governingBody, colour]) => {
-
-      expression.push(
-        governingBody,
-        colour
-      );
-
-    }
-  );
-
-
-  expression.push("#808080");
-
-  return expression;
-
-}
-
-
-function updateSiteColours() {
-
-  if (
-    !map.getLayer("combined-sites")
-  ) {
-    return;
-  }
-
-
-  map.setPaintProperty(
-    "combined-sites",
-    "circle-color",
-    colourByGoverningBody
-      ? getGoverningBodyColourExpression()
-      : DEFAULT_SITE_COLOR
-  );
-
-}
-
-
-function updateGoverningBodyLegend(
-  root = document
-) {
-
-  const legend =
-    root.querySelector
-      ? root.querySelector(
-          "#governing-body-legend"
-        )
-      : null;
-
-
-  if (!legend) {
-    return;
-  }
-
-
-  legend.innerHTML = "";
-
-
-  if (!colourByGoverningBody) {
-
-    legend.classList.add(
-      "d-none"
-    );
-
-    return;
-
-  }
-
-
-  legend.classList.remove(
-    "d-none"
-  );
-
-
-  Object.entries(
-    GOVERNING_BODY_COLORS
-  ).forEach(
-    ([governingBody, colour]) => {
-
-      const item =
-        document.createElement(
-          "div"
-        );
-
-      item.className =
-        "governing-body-legend-item";
-
-      item.innerHTML = `
-        <span
-          class="governing-body-legend-dot"
-          style="background:${colour}">
-        </span>
-        <span>${escapeHtml(governingBody)}</span>
-      `;
-
-      legend.appendChild(
-        item
-      );
-
-    }
-  );
 
 }
 
