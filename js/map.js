@@ -19,6 +19,10 @@ let currentFilteredData = null;
 let currentSortColumn = null;
 let currentSortDirection = "asc";
 
+// Site types currently enabled in the on-map Layers control.
+let siteTypeValues = [];
+let activeSiteTypes = new Set();
+
 
 // ============================================================
 // MAP SETUP
@@ -63,6 +67,8 @@ map.on("load", async () => {
       "geographical-lhn-filter",
       "Geographical LHN"
     );
+
+    addSiteLayerControl();
 
     attachUiEvents();
     attachMapEvents();
@@ -206,6 +212,173 @@ async function loadSiteData() {
       "circle-stroke-width": 1
     }
   });
+
+}
+
+
+// ============================================================
+// ON-MAP SITE LAYER CONTROL
+// ============================================================
+
+function addSiteLayerControl() {
+
+  siteTypeValues = [
+    ...new Set(
+      allSiteData.features
+        .map(feature => feature.properties["Type"])
+        .filter(value => value !== null && value !== undefined && value !== "")
+    )
+  ].sort((a, b) => String(a).localeCompare(String(b)));
+
+  activeSiteTypes = new Set(siteTypeValues);
+
+
+  class SiteLayerControl {
+
+    onAdd() {
+
+      this.container = document.createElement("div");
+      this.container.className =
+        "maplibregl-ctrl maplibregl-ctrl-group site-layer-control";
+
+
+      const toggleButton = document.createElement("button");
+      toggleButton.type = "button";
+      toggleButton.className = "site-layer-control-button";
+      toggleButton.title = "Site layers";
+      toggleButton.setAttribute("aria-label", "Site layers");
+      toggleButton.setAttribute("aria-expanded", "false");
+      toggleButton.innerHTML = `
+        <span class="site-layer-control-icon" aria-hidden="true">☰</span>
+        <span class="site-layer-control-label">Layers</span>
+      `;
+
+
+      const panel = document.createElement("div");
+      panel.className = "site-layer-panel";
+      panel.hidden = true;
+
+      panel.innerHTML = `
+        <div class="site-layer-panel-header">
+          <span>Site layers</span>
+          <div class="site-layer-panel-actions">
+            <button type="button" data-layer-action="all">All</button>
+            <button type="button" data-layer-action="none">None</button>
+          </div>
+        </div>
+        <div class="site-layer-list"></div>
+      `;
+
+
+      const list = panel.querySelector(".site-layer-list");
+
+      siteTypeValues.forEach(type => {
+
+        const row = document.createElement("label");
+        row.className = "site-layer-item";
+
+        const checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.checked = true;
+        checkbox.value = type;
+        checkbox.dataset.siteLayerType = type;
+
+        const labelText = document.createElement("span");
+        labelText.textContent = type;
+
+        checkbox.addEventListener("change", () => {
+
+          if (checkbox.checked) {
+            activeSiteTypes.add(type);
+          }
+          else {
+            activeSiteTypes.delete(type);
+          }
+
+          applyFilters();
+
+        });
+
+        row.appendChild(checkbox);
+        row.appendChild(labelText);
+        list.appendChild(row);
+
+      });
+
+
+      toggleButton.addEventListener("click", event => {
+
+        event.stopPropagation();
+
+        const opening = panel.hidden;
+        panel.hidden = !opening;
+        toggleButton.setAttribute(
+          "aria-expanded",
+          opening ? "true" : "false"
+        );
+
+      });
+
+
+      panel.addEventListener("click", event => {
+        event.stopPropagation();
+      });
+
+
+      panel
+        .querySelector('[data-layer-action="all"]')
+        .addEventListener("click", () => {
+          setAllSiteLayers(true);
+          applyFilters();
+        });
+
+
+      panel
+        .querySelector('[data-layer-action="none"]')
+        .addEventListener("click", () => {
+          setAllSiteLayers(false);
+          applyFilters();
+        });
+
+
+      this.container.appendChild(toggleButton);
+      this.container.appendChild(panel);
+
+      return this.container;
+
+    }
+
+
+    onRemove() {
+
+      this.container.remove();
+      this.container = null;
+
+    }
+
+  }
+
+
+  map.addControl(
+    new SiteLayerControl(),
+    "top-right"
+  );
+
+}
+
+
+function setAllSiteLayers(enabled) {
+
+  activeSiteTypes = enabled
+    ? new Set(siteTypeValues)
+    : new Set();
+
+
+  document
+    .querySelectorAll("[data-site-layer-type]")
+    .forEach(checkbox => {
+      checkbox.checked = enabled;
+    });
 
 }
 
@@ -651,6 +824,14 @@ function applyFilters() {
           feature.properties;
 
         if (
+          !activeSiteTypes.has(
+            properties["Type"]
+          )
+        ) {
+          return false;
+        }
+
+        if (
           type &&
           properties["Type"] !==
             type
@@ -817,6 +998,14 @@ function resetMap() {
 
   document
     .getElementById(
+      "type-filter"
+    )
+    .value =
+      "";
+
+
+  document
+    .getElementById(
       "governing-body-filter"
     )
     .value =
@@ -837,6 +1026,9 @@ function resetMap() {
     )
     .value =
       "";
+
+
+  setAllSiteLayers(true);
 
 
   currentFilteredData = {
